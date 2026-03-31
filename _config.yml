@@ -1,14 +1,14 @@
 title: "AIxAccessibility 2026"
 description: "Workshop on AI and Accessibility — Bridging Intelligence and Inclusion"
 baseurl: "/AIxAccessibility"
-url: "https://lara-martin.github.io"
+url: "https://laramartin.net"
 
 # Event details
 event:
-  name: "AIxAccessibility 2026"
+  name: "AAAI AIxAccessibility 2026"
   tagline: "Bridging Intelligence and Inclusion"
-  date: "May 2026"
-  location: "TBD"
+  date: "May 29, 2026"
+  location: "Gallaudet University"
   venue: "TBD"
 
 # Build settings
@@ -19,7 +19,6 @@ plugins:
 
 # Navigation
 header_pages:
-  - cfp.md
   - speakers.md
   - program.md
   - organizers.md
