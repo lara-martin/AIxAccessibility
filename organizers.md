@@ -4,7 +4,7 @@ title: Organizers
 permalink: /organizers/
 ---
 
-AIxAccessibility 2026 is organized by a multidisciplinary team of researchers with expertise spanning AI, natural language processing, human-computer interaction, and disability studies.
+The DC-Baltimore AAAI AIxAccessibility Event is organized by a team of academics from various university within Maryland and Washington, DC. We have expertise spanning assistive technologies, AI/natural language processing, and human-computer interaction.
 
 ---
 
@@ -15,8 +15,8 @@ AIxAccessibility 2026 is organized by a multidisciplinary team of researchers wi
 <div class="organizer-card">
   <div class="organizer-avatar" aria-hidden="true">👤</div>
   <div class="organizer-info">
-    <h3 class="organizer-name">Lara Martin</h3>
-    <p class="organizer-affiliation">University of Maryland, Baltimore County</p>
+    <h3 class="organizer-name"><a href="https://laramartin.net/" aria-label="Lara's website">Lara J. Martin</a></h3>
+    <p class="organizer-affiliation">University of Maryland, Baltimore County -- Computer Science and Electrical Engineering (CSEE) Department</p>
     <p class="organizer-role">Lead Organizer</p>
   </div>
 </div>
@@ -24,8 +24,16 @@ AIxAccessibility 2026 is organized by a multidisciplinary team of researchers wi
 <div class="organizer-card">
   <div class="organizer-avatar" aria-hidden="true">👤</div>
   <div class="organizer-info">
-    <h3 class="organizer-name">Organizer TBD</h3>
-    <p class="organizer-affiliation">Affiliation TBD</p>
+    <h3 class="organizer-name"><a href="" aria-label="Abraham's website">Abraham Glasser</a></h3>
+    <p class="organizer-affiliation">Gallaudet University -- School of Science, Technology, Accessibility, Mathematics, and Public Health (STAMP)</p>
+    <p class="organizer-role">Organizer</p>
+  </div>
+
+<div class="organizer-card">
+  <div class="organizer-avatar" aria-hidden="true">👤</div>
+  <div class="organizer-info">
+    <h3 class="organizer-name"><a href="https://www.foadhamidi.info/" aria-label="Foad's website">Foad Hamidi</a></h3>
+    <p class="organizer-affiliation">University of Maryland, Baltimore County -- Information Systems Department</p>
     <p class="organizer-role">Organizer</p>
   </div>
 </div>
@@ -33,8 +41,8 @@ AIxAccessibility 2026 is organized by a multidisciplinary team of researchers wi
 <div class="organizer-card">
   <div class="organizer-avatar" aria-hidden="true">👤</div>
   <div class="organizer-info">
-    <h3 class="organizer-name">Organizer TBD</h3>
-    <p class="organizer-affiliation">Affiliation TBD</p>
+    <h3 class="organizer-name"><a href="https://stephanie-valencia.com/" aria-label="Stephanie's website">Stephanie Valencia²</a></h3>
+    <p class="organizer-affiliation">University of Maryland, College Park -- College of Information</p>
     <p class="organizer-role">Organizer</p>
   </div>
 </div>
@@ -43,22 +51,13 @@ AIxAccessibility 2026 is organized by a multidisciplinary team of researchers wi
 
 ---
 
-## Program Committee
-
-The program committee consists of researchers and practitioners in AI, accessibility, human-computer interaction, and related fields. Program committee members will be announced soon.
-
----
 
 ## Contact
 
-For general inquiries about the workshop, please contact us at:
-
-📧 [aixaccessibility2026@example.com](mailto:aixaccessibility2026@example.com)
-
-For submission-related questions, please consult the [Call for Papers]({{ '/cfp.html' | relative_url }}) page first.
+For general inquiries about the event, please contact [the organizers](mailto:laramar@umbc.edu,foadhamidi@umbc.edu,abraham.glasser@gallaudet.edu,sval@umd.edu).
 
 ---
 
 ## Sponsors
 
-Information about sponsorship opportunities will be made available soon. If your organization is interested in supporting AIxAccessibility 2026, please reach out to us.
+This event is funded by AAAI thanks to their ["AIx" Pop-up Event initiative](https://aaai.org/membership/aix-pop-up/).
