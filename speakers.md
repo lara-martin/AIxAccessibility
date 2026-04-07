@@ -4,7 +4,7 @@ title: Invited Speakers
 permalink: /speakers/
 ---
 
-We are delighted to announce our invited speakers for AIxAccessibility 2026. Our lineup brings together leading researchers and practitioners who are shaping the future of AI and accessibility.
+We are pleased to host a panel of wonderful speakers in the AI/accessibility area. We hope that their commentary will provoke thoughtful discussion during the event.
 
 ---
 
@@ -15,10 +15,22 @@ We are delighted to announce our invited speakers for AIxAccessibility 2026. Our
 <div class="speaker-card">
   <div class="speaker-avatar" aria-hidden="true">🎤</div>
   <div class="speaker-info">
-    <h3 class="speaker-name">Speaker TBD</h3>
-    <p class="speaker-affiliation">Affiliation TBD</p>
+    <h3 class="speaker-name"><a href="https://www.stacybranham.com/" aria-label="Stacy's website">Stacy Branham</a></h3>
+    <p class="speaker-affiliation">University of California, Irvine -- Associate Professor in the Department of Informatics</p>
     <p class="speaker-bio">
-      Details about our keynote speakers will be announced soon. Check back for updates!
+      
+    </p>
+  </div>
+</div>
+
+
+<div class="speaker-card">
+  <div class="speaker-avatar" aria-hidden="true">🎤</div>
+  <div class="speaker-info">
+    <h3 class="speaker-name"><a href="https://tap.gallaudet.edu/Staff/" aria-label="Christian's website">Dr. Christian Vogler</a></h3>
+    <p class="speaker-affiliation">Gallaudet University -- Director of the Technology Access Program</p>
+    <p class="speaker-bio">
+      
     </p>
   </div>
 </div>
@@ -27,16 +39,7 @@ We are delighted to announce our invited speakers for AIxAccessibility 2026. Our
 
 ---
 
-## Invited Talks
 
-Details about invited talks will be announced as they are confirmed. We are in the process of finalizing our program and will update this page regularly.
 
----
 
-## Call for Participation
-
-Interested in presenting your work? See our [Call for Papers]({{ '/cfp.html' | relative_url }}) for submission guidelines. Accepted papers will be presented as either oral presentations or posters during the workshop.
-
----
-
-*Speaker information will be updated as confirmations are received. Last updated: March 2026.*
+*Speaker information will be updated as confirmations are received. Last updated: April 7, 2026.*
