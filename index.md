@@ -18,7 +18,7 @@ title: Home
   <div class="container">
     <h2>About the Event</h2>
     <p>
-      AIxAccessibility 2026 is an academic workshop bringing together researchers, practitioners, and
+      The DC-Baltimore AAAI AIxAccessibility Event is a workshop bringing together researchers, practitioners, and
       advocates at the intersection of <strong>artificial intelligence</strong> and
       <strong>accessibility</strong>. Our goal is to foster interdisciplinary dialogue on how AI
       technologies can better serve people with disabilities, and how accessibility principles can
@@ -36,7 +36,7 @@ title: Home
 
 <section class="Participating">
   <div class="container">
-    <h2>Topics of Interest</h2>
+    <h2>Participation</h2>
     <div class="topics-grid">
       <div class="topic-card">
         <h3>RSVP</h3>
@@ -53,7 +53,7 @@ title: Home
 
 
 <section class="Schedule">
-
+<h2>Schedule</h2>
 <div class="schedule-table-wrapper">
 <table class="schedule-table">
   <thead>
