@@ -10,7 +10,6 @@ title: Home
     <p class="event-details">
       <strong>May 29, 2026</strong> &nbsp;·&nbsp; Gallaudet University
     </p>
-    <a href="{{ '/program.html' | relative_url }}" class="btn btn-secondary">View Program</a>
   </div>
 </section>
 
@@ -72,7 +71,7 @@ title: Home
     <tr class="session-type-keynote">
       <td>9:15 – 10:00</td>
       <td>Keynote Talk 1</td>
-      <td>Speaker TBD</td>
+      <td>Information about the guest speakers can be found on the <a href="{{ '/program.html' | relative_url }}" class="btn btn-secondary" aria-label="Speaker information">Speakers tab</a>.</td>
     </tr>
     <tr class="session-type-paper">
       <td>10:00 – 11:00</td>
