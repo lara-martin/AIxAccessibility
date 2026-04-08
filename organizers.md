@@ -38,7 +38,7 @@ The DC-Baltimore AAAI AIxAccessibility Event is organized by a team of academics
   </div>
 
 <div class="organizer-card">
-  <img class="person-img" style="width:300px;" src="" alt="">
+  <img class="person-img" style="width:300px;" src="https://laramartin.net/AIxAccessibility/assets/img/Foad-Hamidi-head-shot.jpg" alt="Foad has short curly hair, a beard, and small black hoop earrings. He's wearing a navy blue shirt and blue plaid jacket.">
   <div class="organizer-info">
     <h3 class="organizer-name"><a href="https://www.foadhamidi.info/" aria-label="Foad's website">Foad Hamidi</a></h3>
     <i>he</i>
@@ -49,7 +49,7 @@ The DC-Baltimore AAAI AIxAccessibility Event is organized by a team of academics
 </div>
 
 <div class="organizer-card">
-  <img class="person-img" style="width:300px;" src="" alt="">
+  <img class="person-img" style="width:300px;" src="https://laramartin.net/AIxAccessibility/assets/img/StephanieValenciaV.jpg" alt="Stephanie has long dirty blonde hair. She is wearing a white button-up shirt, pearl necklace, and red lipstick and nail polish.">
   <div class="organizer-info">
     <h3 class="organizer-name"><a href="https://stephanie-valencia.com/" aria-label="Stephanie's website">Stephanie Valencia²</a></h3>
     <i>she</i>
