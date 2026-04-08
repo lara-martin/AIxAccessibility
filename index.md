@@ -12,7 +12,7 @@ title: Home
     <p class="event-details">
       <strong>May 29, 2026</strong> &nbsp;·&nbsp; Gallaudet University
     </p>
-    <a href="#about-section" aria-label="About the event">About AIxAccessibility</a> | <a href="#participating" aria-label="Participating in the event">Participating</a>
+    Navigate this page: <a href="#about-section" aria-label="About the event">About AIxAccessibility</a> | <a href="#participating" aria-label="Participating in the event">Participating</a>
   </div>
 </section>
 

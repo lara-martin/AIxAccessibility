@@ -8,6 +8,7 @@ permalink: /speakers/
 
 We are pleased to host a panel of wonderful speakers in the AI/accessibility area. We hope that their commentary will provoke thoughtful discussion during the event.
 
+<br>
 <hr>
 
 <h2> Keynote Speakers </h2>
@@ -40,8 +41,8 @@ We are pleased to host a panel of wonderful speakers in the AI/accessibility are
 </div>
 
 <hr>
+<br>
 
 
 
-
-<i>Speaker information will be updated as confirmations are received. Last updated: April 8, 2026.</i>
+<small><i>Speaker information will be updated as confirmations are received. Last updated: April 8, 2026.</i></small>

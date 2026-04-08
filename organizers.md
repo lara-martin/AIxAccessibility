@@ -8,7 +8,7 @@ permalink: /organizers/
 
 The DC-Baltimore AAAI AIxAccessibility Event is organized by a team of academics from various university within Maryland and Washington, DC. We have expertise spanning assistive technologies, AI/natural language processing, and human-computer interaction.
 
-
+<br>
 <hr>
 
 
@@ -17,7 +17,7 @@ The DC-Baltimore AAAI AIxAccessibility Event is organized by a team of academics
 <div class="organizers-grid">
 
 <div class="organizer-card">
-  <div class="organizer-avatar"><img src="img/lara-2026.jpg" alt="Lara has a short asymmetrical haircut and retro glasses. They are wearing a top and jacket in UMBC's colors of black and gold."></div>
+  <div class="organizer-avatar"><img src="/img/lara-2026.jpg" alt="Lara has a short asymmetrical haircut and retro glasses. They are wearing a top and jacket in UMBC's colors of black and gold."></div>
   <div class="organizer-info">
     <h3 class="organizer-name"><a href="https://laramartin.net/" aria-label="Lara's website">Lara J. Martin</a></h3>
     <p class="organizer-affiliation">University of Maryland, Baltimore County &ndash; Department of Computer Science and Electrical Engineering (CSEE)</p>
@@ -59,10 +59,10 @@ The DC-Baltimore AAAI AIxAccessibility Event is organized by a team of academics
 
 <h2> Contact </h2>
 
-For general inquiries about the event, please contact [the organizers](mailto:laramar@umbc.edu,foadhamidi@umbc.edu,abraham.glasser@gallaudet.edu,sval@umd.edu).
-
+For general inquiries about the event, please contact <a href="mailto:laramar@umbc.edu,foadhamidi@umbc.edu,abraham.glasser@gallaudet.edu,sval@umd.edu" aria-label="email all organizers">the organizers</a>.
+<br>
 <hr>
 
 <h2> Sponsor </h2>
 
-This event is funded by AAAI thanks to their ["AIx" Pop-up Event initiative](https://aaai.org/membership/aix-pop-up/).
+This event is funded by AAAI thanks to their <a href="https://aaai.org/membership/aix-pop-up/" aria-label="AAAI AIx Pop-up event initiative page">"AIx" Pop-up Event initiative</a>.
