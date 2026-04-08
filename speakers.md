@@ -4,7 +4,7 @@ title: Invited Speakers
 permalink: /speakers/
 ---
 
-{% include header.html %}
+{% include icon.html %}
 
 We are pleased to host a panel of wonderful speakers in the AI/accessibility area. We hope that their commentary will provoke thoughtful discussion during the event.
 
@@ -44,4 +44,4 @@ We are pleased to host a panel of wonderful speakers in the AI/accessibility are
 
 
 
-*Speaker information will be updated as confirmations are received. Last updated: April 7, 2026.*
+*Speaker information will be updated as confirmations are received. Last updated: April 8, 2026.*

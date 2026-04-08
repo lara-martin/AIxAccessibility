@@ -3,7 +3,7 @@ layout: home
 title: Home
 ---
 
-{% include header.html %}
+{% include icon.html %}
 
 <section class="hero">
   <div class="hero-content">
