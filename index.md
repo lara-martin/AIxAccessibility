@@ -3,6 +3,8 @@ layout: home
 title: Home
 ---
 
+{% include header.html %}
+
 <section class="hero">
   <div class="hero-content">
     <h1 class="event-title">DC-Baltimore AAAI AIxAccessibility Event 2026</h1>

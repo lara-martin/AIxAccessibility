@@ -4,6 +4,8 @@ title: Invited Speakers
 permalink: /speakers/
 ---
 
+{% include header.html %}
+
 We are pleased to host a panel of wonderful speakers in the AI/accessibility area. We hope that their commentary will provoke thoughtful discussion during the event.
 
 ---
