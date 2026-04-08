@@ -8,9 +8,9 @@ permalink: /speakers/
 
 We are pleased to host a panel of wonderful speakers in the AI/accessibility area. We hope that their commentary will provoke thoughtful discussion during the event.
 
----
+<hr>
 
-## Keynote Speakers
+<h2> Keynote Speakers </h2>
 
 <div class="speakers-grid">
 
@@ -39,9 +39,9 @@ We are pleased to host a panel of wonderful speakers in the AI/accessibility are
 
 </div>
 
----
+<hr>
 
 
 
 
-*Speaker information will be updated as confirmations are received. Last updated: April 8, 2026.*
+<i>Speaker information will be updated as confirmations are received. Last updated: April 8, 2026.</i>

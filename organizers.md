@@ -9,10 +9,10 @@ permalink: /organizers/
 The DC-Baltimore AAAI AIxAccessibility Event is organized by a team of academics from various university within Maryland and Washington, DC. We have expertise spanning assistive technologies, AI/natural language processing, and human-computer interaction.
 
 
----
+<hr>
 
 
-## Organizing Committee
+<h2> Organizing Committee </h2>
 
 <div class="organizers-grid">
 
@@ -54,16 +54,15 @@ The DC-Baltimore AAAI AIxAccessibility Event is organized by a team of academics
 
 </div>
 
----
+<hr>
 
 
-## Contact
+<h2> Contact </h2>
 
 For general inquiries about the event, please contact [the organizers](mailto:laramar@umbc.edu,foadhamidi@umbc.edu,abraham.glasser@gallaudet.edu,sval@umd.edu).
 
+<hr>
 
----
-
-## Sponsor
+<h2> Sponsor </h2>
 
 This event is funded by AAAI thanks to their ["AIx" Pop-up Event initiative](https://aaai.org/membership/aix-pop-up/).

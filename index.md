@@ -133,4 +133,4 @@ TBA
 </section>
 
 
-*Initial draft of website created with Github Copilot.*
+<small><i> Initial draft of website created with Github Copilot.</i></small>
