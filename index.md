@@ -10,36 +10,38 @@ title: Home
     <p class="event-details">
       <strong>May 29, 2026</strong> &nbsp;·&nbsp; Gallaudet University
     </p>
+    <a href="#about-section" aria-label="About the event">About AIxAccessibility</a> | <a href="#participating" aria-label="Participating in the event">Participating</a>
   </div>
 </section>
 
-<section class="about-section">
+<section id="about-section">
   <div class="container">
     <h2>About the Event</h2>
     <p>
-      The DC-Baltimore AAAI AIxAccessibility Event is a workshop bringing together researchers, practitioners, and
+      The <a href="https://aaai.org/" aria-label="AAAI's homepage">AAAI</a>-sponsored DC-Baltimore AIxAccessibility Event is a workshop bringing together researchers, practitioners, assistive technology users, policy makers, and
       advocates at the intersection of <strong>artificial intelligence</strong> and
       <strong>accessibility</strong>. Our goal is to foster interdisciplinary dialogue on how AI
-      technologies can better serve people with disabilities, and how accessibility principles can
+      technologies can better serve people with disabilities (and when it does not), and how accessibility principles can
       guide the design of more inclusive AI systems.
     </p>
     <p>
-      We invite submissions on topics ranging from accessible AI interfaces and assistive technologies
-      to bias and fairness in AI for underrepresented groups, as well as participatory design
-      approaches that center disabled communities.
+      The format of the event will be an afternoon filled with a panel of invited speakers &mdash; experts in assistive technologies, HCI, and AI &mdash; followed by an interactive <a href="https://theworldcafe.com/key-concepts-resources/world-cafe-method/" aria-label="information about world cafe">World Cafe</a>-style workshop. Admission is free, and we welcome anyone with an interest in the intersection of AI and accessibility.
+    </p>
+    <p>
+    Due to the logistics, we opted to host the event fully <strong>in-person</strong>. We recognize that this is limiting to people with certain disabilities. However, if this event is successful, we are strongly considering hosting a fully online version in the future. If you are not comfortable coming to an in-person event but are interested in a potential online event, please fill out the RSVP form below (the same form as if you were attending this event).
     </p>
   </div>
 </section>
 
 
 
-<section class="Participating">
+<section id="participating">
   <div class="container">
     <h2>Participation</h2>
     <div class="topics-grid">
       <div class="topic-card">
         <h3>RSVP</h3>
-        <p>If you would like to attend or are interested in potentially attending future events, please fill out <a href="https://forms.gle/JVmgxPYM7J4EZdMN6" aria-label="AIxAccessibility event RSVP">this form</a>.</p>
+        <p>If you would like to attend or are interested in potentially attending future events, please fill out <a href="https://forms.gle/JVmgxPYM7J4EZdMN6" aria-label="AIxAccessibility event RSVP">this form</a>. The form also asks for any accommodations you might need in order to attend.</p>
       </div>
       <div class="topic-card">
         <h3>Volunteering as a Student</h3>
@@ -53,7 +55,9 @@ title: Home
 
 <section class="Schedule">
 <h2>Schedule</h2>
-<div class="schedule-table-wrapper">
+TBA
+  
+  <!--<div class="schedule-table-wrapper">
 <table class="schedule-table">
   <thead>
     <tr>
@@ -70,8 +74,8 @@ title: Home
     </tr>
     <tr class="session-type-keynote">
       <td>9:15 – 10:00</td>
-      <td>Keynote Talk 1</td>
-      <td>Information about the guest speakers can be found on the <a href="{{ '/program.html' | relative_url }}" class="btn btn-secondary" aria-label="Speaker information">Speakers tab</a>.</td>
+      <td>Keynote Panel</td>
+      <td>Guest speakers Information about the guest speakers can be found on the <a href="{{ '/speakers.html' | relative_url }}" class="btn btn-secondary" aria-label="Speaker information">Speakers tab</a>.</td>
     </tr>
     <tr class="session-type-paper">
       <td>10:00 – 11:00</td>
@@ -122,5 +126,9 @@ title: Home
 </table>
 </div>
 
-*All times are tentative and subject to change.*
+*All times are tentative and subject to change.*-->
+
 </section>
+
+
+*Initial draft of website created with Github Copilot.*
