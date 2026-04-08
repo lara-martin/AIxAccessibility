@@ -17,7 +17,7 @@ The DC-Baltimore AAAI AIxAccessibility Event is organized by a team of academics
 <div class="organizers-grid">
 
 <div class="organizer-card">
-  <div class="organizer-avatar"><img src="/assets/img/lara-2026.jpg" alt="Lara has a short asymmetrical haircut and retro glasses. They are wearing a top and jacket in UMBC's colors of black and gold."></div>
+  <div class="organizer-avatar"><img class="organizer-avatar" src="https://laramartin.net/AIxAccessibility/assets/img/lara-2026.jpg" alt="Lara has a short asymmetrical haircut and retro glasses. They are wearing a top and jacket in UMBC's colors of black and gold."></div>
   <div class="organizer-info">
     <h3 class="organizer-name"><a href="https://laramartin.net/" aria-label="Lara's website">Lara J. Martin</a></h3>
     <p class="organizer-affiliation">University of Maryland, Baltimore County &ndash; Department of Computer Science and Electrical Engineering (CSEE)</p>
