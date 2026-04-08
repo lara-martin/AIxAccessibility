@@ -59,7 +59,7 @@ The DC-Baltimore AAAI AIxAccessibility Event is organized by a team of academics
 
 <h2> Contact </h2>
 
-For general inquiries about the event, please contact <a href="mailto:laramar@umbc.edu,foadhamidi@umbc.edu,abraham.glasser@gallaudet.edu,sval@umd.edu" aria-label="email all organizers">the organizers</a>.
+For general inquiries about the event, please email <a href="mailto:AIxAccessibility@gmail.com" aria-label="email the organizers">AIxAccessibility@gmail.com</a>.
 <br><br>
 <hr>
 
