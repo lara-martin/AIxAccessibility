@@ -12,7 +12,7 @@ title: Home
     <p class="event-details">
       <strong>May 29, 2026</strong> &nbsp;·&nbsp; Gallaudet University
     </p>
-    Navigate this page: <a href="#about-section" aria-label="About the event">About AIxAccessibility</a> | <a href="#participating" aria-label="Participating in the event">Participating</a>
+    Navigate this page: <a href="#about-section" aria-label="About the event">About the Event</a> | <a href="#participating" aria-label="Participation in the event">Participation</a>
   </div>
 </section>
 
@@ -42,11 +42,11 @@ title: Home
     <h2>Participation</h2>
     <div class="topics-grid">
       <div class="topic-card">
-        <h3>RSVP</h3>
+        <h3><u>RSVP</u></h3>
         <p>If you would like to attend or are interested in potentially attending future events, please fill out <a href="https://forms.gle/JVmgxPYM7J4EZdMN6" aria-label="AIxAccessibility event RSVP">this form</a>. The form also asks for any accommodations you might need in order to attend.</p>
       </div>
       <div class="topic-card">
-        <h3>Volunteering as a Student</h3>
+        <h3><u>Volunteering as a Student</u></h3>
         <p>If you are an undergraduate or graduate student in the DMV area and would like to volunteer before, during, or after the event, please fill out <a href="https://forms.gle/tXpSfn7kVh6GeJzQA" aria-label="student volunteer form">this form</a>.</p>
       </div>
     </div>
@@ -132,5 +132,5 @@ TBA
 
 </section>
 
-
+<hr>
 <small><i> Initial draft of website created with Github Copilot.</i></small>
