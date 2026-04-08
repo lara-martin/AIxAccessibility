@@ -36,7 +36,7 @@ The DC-Baltimore AAAI AIxAccessibility Event is organized by a team of academics
   </div>
 
 <div class="organizer-card">
-  <div class="organizer-avatar" aria-hidden="true">👤</div>
+  <img class="person-img" src="" alt="">
   <div class="organizer-info">
     <h3 class="organizer-name"><a href="https://www.foadhamidi.info/" aria-label="Foad's website">Foad Hamidi</a></h3>
     <p class="organizer-affiliation">University of Maryland, Baltimore County &ndash; Department of Information Systems</p>
@@ -46,7 +46,7 @@ The DC-Baltimore AAAI AIxAccessibility Event is organized by a team of academics
 </div>
 
 <div class="organizer-card">
-  <div class="organizer-avatar" aria-hidden="true">👤</div>
+  <img class="person-img" src="" alt="">
   <div class="organizer-info">
     <h3 class="organizer-name"><a href="https://stephanie-valencia.com/" aria-label="Stephanie's website">Stephanie Valencia²</a></h3>
     <p class="organizer-affiliation">University of Maryland, College Park &ndash; College of Information</p>
