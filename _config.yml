@@ -1,12 +1,17 @@
-title: "AIxAccessibility 2026"
-description: "Workshop on AI and Accessibility — Bridging Intelligence and Inclusion"
+title: "AAAI AIxAccessibility 2026"
+description: "Workshop on AI and Accessibility"
 baseurl: "/AIxAccessibility"
 url: "https://laramartin.net"
+
+
+favicon: https://aaai.org/wp-content/uploads/2022/12/cropped-white-logo-32x32.png
+favicon_big: https://aaai.org/wp-content/uploads/2022/12/cropped-white-logo-192x192.png
+favicon_biggest: https://aaai.org/wp-content/uploads/2022/12/cropped-white-logo-270x270.png
 
 # Event details
 event:
   name: "AAAI AIxAccessibility 2026"
-  tagline: "Bridging Intelligence and Inclusion"
+  tagline: "Baltimore-DC Event on Bridging AI and Accessibility"
   date: "May 29, 2026"
   location: "Gallaudet University"
   venue: "TBD"
