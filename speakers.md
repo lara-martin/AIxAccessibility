@@ -18,7 +18,7 @@ We are pleased to host a panel of wonderful speakers in the AI/accessibility are
 <div class="speaker-card">
   <div class="speaker-avatar" aria-hidden="true">🎤</div>
   <div class="speaker-info">
-    <h3 class="speaker-name"><a href="https://www.stacybranham.com/" aria-label="Stacy's website">Stacy Branham</a></h3>
+    <h3 class="speaker-name"><a href="https://www.stacybranham.com/" aria-label="Stacy's website">Dr. Stacy Branham</a></h3>
     <p class="speaker-affiliation">University of California, Irvine -- Associate Professor in the Department of Informatics</p>
     <p class="speaker-bio">
       
