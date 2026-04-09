@@ -8,7 +8,7 @@ title: Home
 <section class="hero">
   <div class="hero-content">
     <h1 class="event-title">DC-Baltimore AAAI AIxAccessibility Event 2026</h1>
-    <p class="event-tagline">Bridging Intelligence and Inclusion</p>
+    <p class="event-tagline">Bringing Disability Inclusion to AI and AI to Assistive Technologies</p>
     <p class="event-details">
       <strong>May 29, 2026</strong> &nbsp;·&nbsp; Gallaudet University
     </p>
