@@ -27,7 +27,7 @@ title: Home
       guide the design of more inclusive AI systems.
     </p>
     <p>
-      The format of the event will be an afternoon filled with a panel of invited speakers &mdash; experts in assistive technologies, HCI, and AI &mdash; followed by an interactive <a href="https://theworldcafe.com/key-concepts-resources/world-cafe-method/" aria-label="information about world cafe">World Cafe</a>-style workshop. Admission is free, and we welcome anyone with an interest in the intersection of AI and accessibility.
+      The format of the event will be an afternoon filled with a panel of invited speakers &mdash; experts in assistive technologies, HCI, and AI &mdash; followed by an interactive <a href="https://theworldcafe.com/key-concepts-resources/world-cafe-method/" aria-label="information about world cafe">World Cafe</a>-style workshop. <u>Admission is free</u>, and we welcome anyone with an interest in the intersection of AI and accessibility.
     </p>
     <p>
     Due to the logistics, we opted to host the event fully <strong>in-person</strong>. We recognize that this is limiting to people with certain disabilities. However, if this event is successful, we are strongly considering hosting a fully online version in the future. If you are not comfortable coming to an in-person event but are interested in a potential online event, please fill out the RSVP form below (the same form as if you were attending this event).
