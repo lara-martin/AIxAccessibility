@@ -18,8 +18,19 @@ We are pleased to host a panel of wonderful speakers in the AI/accessibility are
 <div class="speaker-card">
   <div class="speaker-avatar" aria-hidden="true">🎤</div>
   <div class="speaker-info">
-    <h3 class="speaker-name"><a href="https://www.stacybranham.com/" aria-label="Stacy's website">Dr. Stacy Branham</a></h3>
+    <h3 class="speaker-name"><a href="https://www.stacybranham.com/" aria-label="Dr. Branham's website">Dr. Stacy Branham</a></h3>
     <p class="speaker-affiliation">University of California, Irvine -- Associate Professor in the Department of Informatics</p>
+    <p class="speaker-bio">
+      
+    </p>
+  </div>
+</div>
+
+<div class="speaker-card">
+  <div class="speaker-avatar" aria-hidden="true">🎤</div>
+  <div class="speaker-info">
+    <h3 class="speaker-name"><a href="http://hernisakacorri.com/" aria-label="Dr. Kacorri's website">Dr. Hernisa Kacorri</a></h3>
+    <p class="speaker-affiliation">University of Maryland, College Park -- Associate Professor in the College of Information</p>
     <p class="speaker-bio">
       
     </p>
@@ -30,7 +41,7 @@ We are pleased to host a panel of wonderful speakers in the AI/accessibility are
 <div class="speaker-card">
   <div class="speaker-avatar" aria-hidden="true">🎤</div>
   <div class="speaker-info">
-    <h3 class="speaker-name"><a href="https://tap.gallaudet.edu/Staff/" aria-label="Christian's website">Dr. Christian Vogler</a></h3>
+    <h3 class="speaker-name"><a href="https://tap.gallaudet.edu/Staff/" aria-label="Dr. Vogler's website">Dr. Christian Vogler</a></h3>
     <p class="speaker-affiliation">Gallaudet University -- Director of the Technology Access Program</p>
     <p class="speaker-bio">
       
