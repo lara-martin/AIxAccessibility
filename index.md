@@ -76,11 +76,11 @@ title: Home
     <tr class="session-type-keynote">
       <td>2:10 – 3:00pm</td>
       <td>Keynote Panel</td>
-      <td>Guest speakers Information about the guest speakers can be found on the <a href="{{ '/speakers.html' | relative_url }}" class="btn btn-secondary" aria-label="Speaker information">Speakers tab</a>.</td>
+      <td>Guest speakers Information about the guest speakers can be found on the <a href="{{ '/speakers/' | relative_url }}" class="btn btn-secondary" aria-label="Speaker information">Speakers tab</a>.</td>
     </tr>
     <tr class="session-type-break">
       <td>3:00 – 3:05pm</td>
-      <td>Quick break.</td>
+      <td>Quick Break</td>
       <td></td>
     </tr>
     <tr class="session-type-discussion">
@@ -112,4 +112,5 @@ title: Home
 </section>
 
 <hr>
+<br>
 <small><i> Initial draft of website created with Github Copilot.</i></small>
