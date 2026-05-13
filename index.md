@@ -57,78 +57,57 @@ title: Home
 
 <section class="Schedule">
 <h2>Schedule</h2>
-TBA
-  
-  <!--<div class="schedule-table-wrapper">
+
+<div class="schedule-table-wrapper">
 <table class="schedule-table">
   <thead>
     <tr>
-      <th scope="col">Time</th>
+      <th scope="col">Time (ET)</th>
       <th scope="col">Session</th>
       <th scope="col">Details</th>
     </tr>
   </thead>
   <tbody>
     <tr class="session-type-opening">
-      <td>9:00 – 9:15</td>
+      <td>2:00 – 2:10pm</td>
       <td>Opening Remarks</td>
-      <td>Welcome from the organizers</td>
+      <td>Welcome from the organizers.</td>
     </tr>
     <tr class="session-type-keynote">
-      <td>9:15 – 10:00</td>
+      <td>2:10 – 3:00pm</td>
       <td>Keynote Panel</td>
       <td>Guest speakers Information about the guest speakers can be found on the <a href="{{ '/speakers.html' | relative_url }}" class="btn btn-secondary" aria-label="Speaker information">Speakers tab</a>.</td>
     </tr>
-    <tr class="session-type-paper">
-      <td>10:00 – 11:00</td>
-      <td>Paper Session 1</td>
-      <td>AI for Assistive Technology (papers TBD)</td>
+    <tr class="session-type-break">
+      <td>3:00 – 3:05pm</td>
+      <td>Quick break.</td>
+      <td></td>
+    </tr>
+    <tr class="session-type-discussion">
+      <td>3:05 – 3:40pm</td>
+      <td>Table Discussions</td>
+      <td>Answering questions posed to you by the organizers.</td>
     </tr>
     <tr class="session-type-break">
-      <td>11:00 – 11:15</td>
-      <td>Break</td>
-      <td>Coffee &amp; networking</td>
+      <td>3:40 – 4:00pm</td>
+      <td>Snack Break</td>
+      <td>Time to decompress a bit and eat snacks.</td>
     </tr>
-    <tr class="session-type-keynote">
-      <td>11:15 – 12:00</td>
-      <td>Keynote Talk 2</td>
-      <td>Speaker TBD</td>
-    </tr>
-    <tr class="session-type-break">
-      <td>12:00 – 13:30</td>
-      <td>Lunch Break</td>
-      <td>Lunch &amp; poster session</td>
-    </tr>
-    <tr class="session-type-paper">
-      <td>13:30 – 14:30</td>
-      <td>Paper Session 2</td>
-      <td>Fairness, Bias &amp; Representation (papers TBD)</td>
-    </tr>
-    <tr class="session-type-paper">
-      <td>14:30 – 15:30</td>
-      <td>Paper Session 3</td>
-      <td>Accessible AI Design (papers TBD)</td>
-    </tr>
-    <tr class="session-type-break">
-      <td>15:30 – 15:45</td>
-      <td>Break</td>
-      <td>Coffee &amp; networking</td>
-    </tr>
-    <tr class="session-type-panel">
-      <td>15:45 – 16:45</td>
-      <td>Panel Discussion</td>
-      <td>Future Directions in AIxAccessibility</td>
+    <tr class="session-type-discussion">
+      <td>4:00 – 4:45pm</td>
+      <td>Room-wide Discussion</td>
+      <td>Come together as a room and go over what the tables discussed.</td>
     </tr>
     <tr class="session-type-opening">
-      <td>16:45 – 17:00</td>
+      <td>4:45 – 5:00pm</td>
       <td>Closing Remarks</td>
-      <td>Awards &amp; wrap-up</td>
+      <td>Wrap-up and where do we go from here.</td>
     </tr>
   </tbody>
 </table>
 </div>
 
-*All times are tentative and subject to change.*-->
+<small><i>All times are tentative and subject to change.</i></small>
 
 </section>
 
